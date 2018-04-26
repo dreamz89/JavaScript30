@@ -1,4 +1,4 @@
-Starting my 30 days of Javascript coding lessons from WesBos. https://javascript30.com/\
+Starting my 30 days of Javascript coding lessons from WesBos. https://javascript30.com \
 List below is to track my progress as I complete each lesson.\
 He has provided the starter files Index-START and Index-FINISHED etc.\
 My own completed file will be called Index-DONE.
@@ -7,7 +7,7 @@ My own completed file will be called Index-DONE.
 
 - [x] 01. JavaScript Drum Kit
 - [x] 02. JS and CSS Clock
-- [ ] 03. CSS Variables
+- [x] 03. CSS Variables
 - [ ] 04. Array Cardio Day 1
 - [ ] 05. Flex Panel Gallery
 - [ ] 06. Type Ahead
