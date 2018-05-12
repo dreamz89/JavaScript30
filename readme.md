@@ -10,7 +10,7 @@ My own completed file will be called Index-DONE.
 - [x] 03. CSS Variables
 - [x] 04. Array Cardio Day 1
 - [x] 05. Flex Panel Gallery
-- [ ] 06. Type Ahead
+- [x] 06. Type Ahead
 - [ ] 07. Array Cardio Day 2
 - [ ] 08. Fun with HTML5 Canvas
 - [ ] 09. Dev Tools Domination
