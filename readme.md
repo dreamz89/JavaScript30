@@ -11,7 +11,7 @@ My own completed file will be called Index-DONE.
 - [x] 04. Array Cardio Day 1
 - [x] 05. Flex Panel Gallery
 - [x] 06. Type Ahead
-- [ ] 07. Array Cardio Day 2
+- [x] 07. Array Cardio Day 2
 - [ ] 08. Fun with HTML5 Canvas
 - [ ] 09. Dev Tools Domination
 - [ ] 10. Hold Shift and Check Checkboxes
