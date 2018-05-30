@@ -21,7 +21,7 @@ My own completed file will be called Index-DONE.
 - [x] 14. JavaScript References VS Copying
 - [x] 15. LocalStorage
 - [x] 16. Mouse Move Shadow
-- [ ] 17. Sort Without Articles
+- [x] 17. Sort Without Articles
 - [ ] 18. Adding Up Times with Reduce
 - [ ] 19. Webcam Fun
 - [ ] 20. Speech Detection
